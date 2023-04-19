@@ -1,5 +1,3 @@
-### Assignment   - Worlde game
-### Author: Elliot Mollman
 import random
 
 def format_green(text):
